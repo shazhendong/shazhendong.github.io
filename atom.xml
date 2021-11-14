@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shazhendong.github.io</id>
-    <title>Zhendong&apos;s Personal Website</title>
-    <updated>2021-11-14T04:04:26.660Z</updated>
+    <title>Zhendong Sha&apos;s Personal Website</title>
+    <updated>2021-11-14T04:07:50.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shazhendong.github.io"/>
     <link rel="self" href="https://shazhendong.github.io/atom.xml"/>
     <subtitle>My name is Zhendong Sha, currently I am a Phd student, supervised by Dr. Ting Hu and Dr. Yuanzhu Chen. My research resides in the areas of Bioinformatics, Network Science and Machine Learning. My current research interests include genome-wide association studies and evolutionary computation.</subtitle>
     <logo>https://shazhendong.github.io/images/avatar.png</logo>
     <icon>https://shazhendong.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Zhendong&apos;s Personal Website</rights>
+    <rights>All rights reserved 2021, Zhendong Sha&apos;s Personal Website</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://shazhendong.github.io/post/hello-gridea/</id>
